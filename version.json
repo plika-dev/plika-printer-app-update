@@ -1,18 +1,22 @@
 {
-    "latest_version": "1.0.29",
-    "download_url": "https://github.com/plika-dev/plika-printer-app-update/releases/download/v1.0.29/Plika_Printer_Setup_v1.0.29.exe",
+  "standard": {
+    "latest_version": "1.0.30",
+    "download_url": "https://github.com/plika-dev/plika-printer-app-update/releases/download/v1.0.30/Plika_Printer_Setup_v1.0.30.exe",
     "release_notes": [
-      "작업소요시간 계산 오류 수정",
-      "도면뷰어에서 작업객체만 보기와 전체객체 보기 전환 토글버튼 추가",
-      "작업순서 숫자라벨 동적 크기",
-      "length가 0인 객체는 출력 결과에 포함하지 않음",
-      "여러 도면간 전환 시 버그 수정",
-      "여러 task전환 시 버그 수정",
-      "기준점 설정 초기화되거나 이상하게 되던 버그 수정",
-      "이어서하기를 하면 기준점 계산이 잘못되던 버그 수정",
-      "레이어탭에서 전구모양 아이콘 삭제"
+      "비상정지 버튼",
+      "버전 분기"
     ],
     "min_required_version": "1.0.0",
     "force_update": false,
-    "publish_date": "2026-04-15"
+    "publish_date": "2026-05-20"
+  },
+  "hhoc": {
+    "latest_version": "1.0.30",
+    "download_url": "https://github.com/plika-dev/plika-printer-app-update/releases/download/v1.0.30-hhoc/Plika_Printer_Setup_v1.0.30-hhoc.exe",
+    "release_notes": [
+    ],
+    "min_required_version": "1.0.0",
+    "force_update": false,
+    "publish_date": "2026-05-20"
   }
+}
