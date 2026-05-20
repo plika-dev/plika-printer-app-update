@@ -1,10 +1,9 @@
 {
   "standard": {
-    "latest_version": "1.0.30",
-    "download_url": "https://github.com/plika-dev/plika-printer-app-update/releases/download/v1.0.30/Plika_Printer_Setup_v1.0.30.exe",
+    "latest_version": "1.0.31",
+    "download_url": "https://github.com/plika-dev/plika-printer-app-update/releases/download/v1.0.31/Plika_Printer_Setup_v1.0.31.exe",
     "release_notes": [
-      "비상정지 버튼",
-      "버전 분기"
+      "출력 오류 수정"
     ],
     "min_required_version": "1.0.0",
     "force_update": false,
