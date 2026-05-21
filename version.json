@@ -1,6 +1,6 @@
 {
   "standard": {
-    "latest_version": "1.0.32",
+    "latest_version": "1.0.33",
     "download_url": "https://github.com/plika-dev/plika-printer-app-update/releases/download/v1.0.33/Plika_Printer_Setup_v1.0.33.exe",
     "release_notes": [
       "언어변경기능 추가"
