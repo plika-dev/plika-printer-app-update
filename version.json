@@ -1,17 +1,17 @@
 {
   "standard": {
     "latest_version": "1.0.32",
-    "download_url": "https://github.com/plika-dev/plika-printer-app-update/releases/download/v1.0.32/Plika_Printer_Setup_v1.0.32.exe",
+    "download_url": "https://github.com/plika-dev/plika-printer-app-update/releases/download/v1.0.33/Plika_Printer_Setup_v1.0.33.exe",
     "release_notes": [
-      "기준점 설정 팝업창 임시 문구 삭제"
+      "언어변경기능 추가"
     ],
     "min_required_version": "1.0.0",
     "force_update": false,
     "publish_date": "2026-05-20"
   },
   "hhoc": {
-    "latest_version": "1.0.32",
-    "download_url": "https://github.com/plika-dev/plika-printer-app-update/releases/download/v1.0.32-hhoc/Plika_Printer_Setup_v1.0.32-hhoc.exe",
+    "latest_version": "1.0.33",
+    "download_url": "https://github.com/plika-dev/plika-printer-app-update/releases/download/v1.0.33-hhoc/Plika_Printer_Setup_v1.0.33-hhoc.exe",
     "release_notes": [
     ],
     "min_required_version": "1.0.0",
