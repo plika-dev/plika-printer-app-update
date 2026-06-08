@@ -1,23 +1,22 @@
 {
   "standard": {
-    "latest_version": "1.0.37",
-    "download_url": "https://github.com/plika-dev/plika-printer-app-update/releases/download/v1.0.37/Plika_Printer_Setup_v1.0.37.exe",
+    "latest_version": "1.0.38",
+    "download_url": "https://github.com/plika-dev/plika-printer-app-update/releases/download/v1.0.38/Plika_Printer_Setup_v1.0.38.exe",
     "release_notes": [
-      "리뷰탭 오류 수정",
-      "로봇 작업 완료 처리 오류 수정",
-      "경로없음,작업불가 객체 표현 추가"
+      "보고서 엑셀 내용 개선",
+      "객체 출력 순서 라벨링 색상 구분"
     ],
     "min_required_version": "1.0.31",
     "force_update": false,
-    "publish_date": "2026-06-05"
+    "publish_date": "2026-06-08"
   },
   "hhoc": {
-    "latest_version": "1.0.37",
-    "download_url": "https://github.com/plika-dev/plika-printer-app-update/releases/download/v1.0.37-hhoc/Plika_Printer_Setup_v1.0.37-hhoc.exe",
+    "latest_version": "1.0.38",
+    "download_url": "https://github.com/plika-dev/plika-printer-app-update/releases/download/v1.0.38-hhoc/Plika_Printer_Setup_v1.0.38-hhoc.exe",
     "release_notes": [
     ],
     "min_required_version": "1.0.31",
     "force_update": false,
-    "publish_date": "2026-06-05"
+    "publish_date": "2026-06-08"
   }
 }
