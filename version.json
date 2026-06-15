@@ -1,21 +1,21 @@
 {
   "standard": {
-    "latest_version": "1.0.42",
-    "download_url": "https://github.com/plika-dev/plika-printer-app-update/releases/download/v1.0.42/Plika_Printer_Setup_v1.0.42.exe",
+    "latest_version": "1.0.43",
+    "download_url": "https://github.com/plika-dev/plika-printer-app-update/releases/download/v1.0.43/Plika_Printer_Setup_v1.0.43.exe",
     "release_notes": [
-      "최신 버전 업데이트 설치 오류 수정"
+      "마이그레이션 로직 수정"
     ],
     "min_required_version": "1.0.31",
     "force_update": false,
-    "publish_date": "2026-06-12"
+    "publish_date": "2026-06-15"
   },
   "hhoc": {
-    "latest_version": "1.0.38",
-    "download_url": "https://github.com/plika-dev/plika-printer-app-update/releases/download/v1.0.38-hhoc/Plika_Printer_Setup_v1.0.38-hhoc.exe",
+    "latest_version": "1.0.43",
+    "download_url": "https://github.com/plika-dev/plika-printer-app-update/releases/download/v1.0.43-hhoc/Plika_Printer_Setup_v1.0.43-hhoc.exe",
     "release_notes": [
     ],
     "min_required_version": "1.0.31",
     "force_update": false,
-    "publish_date": "2026-06-08"
+    "publish_date": "2026-06-15"
   }
 }
