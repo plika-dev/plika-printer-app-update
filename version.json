@@ -1,17 +1,17 @@
 {
   "standard": {
-    "latest_version": "1.0.44",
-    "download_url": "https://github.com/plika-dev/plika-printer-app-update/releases/download/v1.0.44/Plika_Printer_Setup_v1.0.44.exe",
+    "latest_version": "1.0.45",
+    "download_url": "https://github.com/plika-dev/plika-printer-app-update/releases/download/v1.0.45/Plika_Printer_Setup_v1.0.45.exe",
     "release_notes": [
-      "작업중인 로봇의 연결해제 시 바로 작업을 종료하지 않고 선택할 수 있도록 했습니다."
+      "버전 업데이트 과정 개선"
     ],
     "min_required_version": "1.0.31",
     "force_update": false,
     "publish_date": "2026-06-25"
   },
   "hhoc": {
-    "latest_version": "1.0.44",
-    "download_url": "https://github.com/plika-dev/plika-printer-app-update/releases/download/v1.0.44-hhoc/Plika_Printer_Setup_v1.0.44-hhoc.exe",
+    "latest_version": "1.0.45",
+    "download_url": "https://github.com/plika-dev/plika-printer-app-update/releases/download/v1.0.45-hhoc/Plika_Printer_Setup_v1.0.45-hhoc.exe",
     "release_notes": [
     ],
     "min_required_version": "1.0.31",
