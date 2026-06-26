@@ -1,7 +1,7 @@
 {
   "standard": {
-    "latest_version": "1.0.46",
-    "download_url": "https://github.com/plika-dev/plika-printer-app-update/releases/download/v1.0.46/Plika_Printer_Setup_v1.0.46.exe",
+    "latest_version": "1.0.47",
+    "download_url": "https://github.com/plika-dev/plika-printer-app-update/releases/download/v1.0.47/Plika_Printer_Setup_v1.0.47.exe",
     "release_notes": [
       "로봇 아이콘 표시 조건 수정"
     ],
@@ -10,8 +10,8 @@
     "publish_date": "2026-06-26"
   },
   "hhoc": {
-    "latest_version": "1.0.46",
-    "download_url": "https://github.com/plika-dev/plika-printer-app-update/releases/download/v1.0.46-hhoc/Plika_Printer_Setup_v1.0.46-hhoc.exe",
+    "latest_version": "1.0.47",
+    "download_url": "https://github.com/plika-dev/plika-printer-app-update/releases/download/v1.0.47-hhoc/Plika_Printer_Setup_v1.0.47-hhoc.exe",
     "release_notes": [
     ],
     "min_required_version": "1.0.31",
