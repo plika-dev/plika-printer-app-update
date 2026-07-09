@@ -1,23 +1,21 @@
 {
   "standard": {
-    "latest_version": "1.0.48",
-    "download_url": "https://github.com/plika-dev/plika-printer-app-update/releases/download/v1.0.48/Plika_Printer_Setup_v1.0.48.exe",
+    "latest_version": "1.0.49",
+    "download_url": "https://github.com/plika-dev/plika-printer-app-update/releases/download/v1.0.49/Plika_Printer_Setup_v1.0.49.exe",
     "release_notes": [
-      "도면 뷰어 객체 선택 기능 수정",
-      "중복,포함 객체는 출력 작업 제외",
-      "길이가 0인 객체 출력 작업 제외"
+      "작업영역 자동 생성"
     ],
     "min_required_version": "1.0.31",
     "force_update": false,
-    "publish_date": "2026-07-06"
+    "publish_date": "2026-07-09"
   },
-  "hhoc": {
-    "latest_version": "1.0.48",
-    "download_url": "https://github.com/plika-dev/plika-printer-app-update/releases/download/v1.0.48-hhoc/Plika_Printer_Setup_v1.0.48-hhoc.exe",
+  "hwo": {
+    "latest_version": "1.0.49",
+    "download_url": "https://github.com/plika-dev/plika-printer-app-update/releases/download/v1.0.49-hwo/Plika_Printer_Setup_v1.0.49-hwo.exe",
     "release_notes": [
     ],
     "min_required_version": "1.0.31",
     "force_update": false,
-    "publish_date": "2026-07-06"
+    "publish_date": "2026-07-09"
   }
 }
