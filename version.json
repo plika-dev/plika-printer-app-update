@@ -1,11 +1,10 @@
 {
   "standard": {
-    "latest_version": "1.0.50",
-    "download_url": "https://github.com/plika-dev/plika-printer-app-update/releases/download/v1.0.50/Plika_Printer_Setup_v1.0.50.exe",
+    "latest_version": "1.0.51",
+    "download_url": "https://github.com/plika-dev/plika-printer-app-update/releases/download/v1.0.51/Plika_Printer_Setup_v1.0.51.exe",
     "release_notes": [
-      "도면 데이터 추출 방식 변경(안드로이드 지원)",
-      "웹뷰스크린 UI 변경",
-      "Trimble Ri 세팅"      
+      "객체 선택 개선",
+      "특성탭 추가"
     ],
     "min_required_version": "1.0.31",
     "force_update": false,
