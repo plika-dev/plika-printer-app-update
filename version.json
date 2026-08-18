@@ -1,9 +1,9 @@
 {
   "standard": {
-    "latest_version": "1.0.52",
-    "download_url": "https://github.com/plika-dev/plika-printer-app-update/releases/download/v1.0.52/Plika_Printer_Setup_v1.0.52.exe",
+    "latest_version": "1.0.53",
+    "download_url": "https://github.com/plika-dev/plika-printer-app-update/releases/download/v1.0.53/Plika_Printer_Setup_v1.0.53.exe",
     "release_notes": [
-      "ARC 처리 개선"
+      "Trimble Ri UI 개선"
     ],
     "min_required_version": "1.0.31",
     "force_update": false,
