@@ -1,9 +1,11 @@
 {
   "standard": {
-    "latest_version": "1.0.53",
-    "download_url": "https://github.com/plika-dev/plika-printer-app-update/releases/download/v1.0.53/Plika_Printer_Setup_v1.0.53.exe",
+    "latest_version": "1.0.54",
+    "download_url": "https://github.com/plika-dev/plika-printer-app-update/releases/download/v1.0.54/Plika_Printer_Setup_v1.0.54.exe",
     "release_notes": [
-      "Trimble Ri UI 개선"
+      "Trimble Ri UI 개선",
+      "측정기능 수정",
+      "기준점 생성 버그 수정"
     ],
     "min_required_version": "1.0.31",
     "force_update": false,
