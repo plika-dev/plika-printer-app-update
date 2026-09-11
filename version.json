@@ -1,9 +1,9 @@
 {
   "standard": {
-    "latest_version": "1.0.62",
-    "download_url": "https://github.com/plika-dev/plika-printer-app-update/releases/download/v1.0.62/Plika_Layout_Printer_Setup_v1.0.62.exe",
+    "latest_version": "1.0.63",
+    "download_url": "https://github.com/plika-dev/plika-printer-app-update/releases/download/v1.0.63/Plika_Layout_Printer_Setup_v1.0.63.exe",
     "release_notes": [
-      "포인트마킹 객체선택 오류 수정"
+      "이어서하기 포인트마킹 누락 수정"
     ],
     "min_required_version": "1.0.31",
     "force_update": false,
