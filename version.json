@@ -1,10 +1,9 @@
 {
   "standard": {
-    "latest_version": "1.0.65",
-    "download_url": "https://github.com/plika-dev/plika-printer-app-update/releases/download/v1.0.65/Plika_Layout_Printer_Setup_v1.0.65.exe",
+    "latest_version": "1.0.66",
+    "download_url": "https://github.com/plika-dev/plika-printer-app-update/releases/download/v1.0.66/Plika_Layout_Printer_Setup_v1.0.66.exe",
     "release_notes": [
-      "report 정보 수정",
-      "zip backup"
+      "report update 로직 오류 수정"
     ],
     "min_required_version": "1.0.31",
     "force_update": false,
